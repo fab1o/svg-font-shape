@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'BlackRose';
+    src: url('../fonts/BlackRose.ttf');
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+div{
+    border: 1px dotted black;
+}
+div.svg-video{
+    background-color:#ffb296;
+}
+div.shape{
+    background-color:#ff9872;
+}
+div.text{
+    background-color:#ff7f50;
+}
+div.shape-100{
+    background-color:#cc6540;
+}
+div.font{
+    background-color:#994c30;
+}
+
