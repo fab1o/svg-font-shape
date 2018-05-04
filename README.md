@@ -13,7 +13,7 @@ They all share the same settings:
  width: 868;
 ```
 
-Can you guess which one is which before looking at the source code?
+**Can you guess which one is which before looking at the source code?**
 
 Check out answers in the [Documentation]().
 
